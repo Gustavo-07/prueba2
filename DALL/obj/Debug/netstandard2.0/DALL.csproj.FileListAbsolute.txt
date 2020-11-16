@@ -1,0 +1,36 @@
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\DALL\bin\Debug\netstandard2.0\DALL.deps.json
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\DALL\bin\Debug\netstandard2.0\DALL.dll
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\DALL\bin\Debug\netstandard2.0\DALL.pdb
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\DALL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\DALL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\DALL\obj\Debug\netstandard2.0\DALL.csprojAssemblyReference.cache
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\DALL\obj\Debug\netstandard2.0\DALL.AssemblyInfoInputs.cache
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\DALL\obj\Debug\netstandard2.0\DALL.AssemblyInfo.cs
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\DALL\obj\Debug\netstandard2.0\DALL.csproj.CoreCompileInputs.cache
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\DALL\obj\Debug\netstandard2.0\DALL.csproj.CopyComplete
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\DALL\obj\Debug\netstandard2.0\DALL.dll
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\DALL\obj\Debug\netstandard2.0\DALL.pdb
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\DALL\bin\Debug\netstandard2.0\DALL.deps.json
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\DALL\bin\Debug\netstandard2.0\DALL.dll
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\DALL\bin\Debug\netstandard2.0\DALL.pdb
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\DALL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\DALL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\DALL\obj\Debug\netstandard2.0\DALL.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\DALL\obj\Debug\netstandard2.0\DALL.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\DALL\obj\Debug\netstandard2.0\DALL.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\DALL\obj\Debug\netstandard2.0\DALL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\DALL\obj\Debug\netstandard2.0\DALL.csproj.CopyComplete
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\DALL\obj\Debug\netstandard2.0\DALL.dll
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\DALL\obj\Debug\netstandard2.0\DALL.pdb
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\DALL\bin\Debug\netstandard2.0\DALL.deps.json
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\DALL\bin\Debug\netstandard2.0\DALL.dll
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\DALL\bin\Debug\netstandard2.0\DALL.pdb
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\DALL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\DALL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\DALL\obj\Debug\netstandard2.0\DALL.csprojAssemblyReference.cache
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\DALL\obj\Debug\netstandard2.0\DALL.AssemblyInfoInputs.cache
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\DALL\obj\Debug\netstandard2.0\DALL.AssemblyInfo.cs
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\DALL\obj\Debug\netstandard2.0\DALL.csproj.CoreCompileInputs.cache
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\DALL\obj\Debug\netstandard2.0\DALL.csproj.CopyComplete
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\DALL\obj\Debug\netstandard2.0\DALL.dll
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\DALL\obj\Debug\netstandard2.0\DALL.pdb

@@ -1,0 +1,42 @@
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\bin\Debug\netstandard2.0\DALL.dll
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\bin\Debug\netstandard2.0\DALL.pdb
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\BLL\obj\Debug\netstandard2.0\BLL.pdb
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\bin\Debug\netstandard2.0\DALL.dll
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\bin\Debug\netstandard2.0\DALL.pdb
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\BLL\obj\Debug\netstandard2.0\BLL.pdb
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\bin\Debug\netstandard2.0\DALL.dll
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\bin\Debug\netstandard2.0\DALL.pdb
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\Ricky\Documents\proyectos\TrabajoIA\BLL\obj\Debug\netstandard2.0\BLL.pdb

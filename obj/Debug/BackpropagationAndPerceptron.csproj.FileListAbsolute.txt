@@ -1,0 +1,67 @@
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\bin\Debug\BackpropagationAndPerceptron.exe.config
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\bin\Debug\BackpropagationAndPerceptron.exe
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\bin\Debug\BackpropagationAndPerceptron.pdb
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\obj\Debug\BackpropagationAndPerceptron.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\obj\Debug\BackpropagationAndPerceptron.Simulacion.resources
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\obj\Debug\BackpropagationAndPerceptron.VentanaPrincipal.resources
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\obj\Debug\BackpropagationAndPerceptron.Properties.Resources.resources
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\obj\Debug\BackpropagationAndPerceptron.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\obj\Debug\BackpropagationAndPerceptron.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\obj\Debug\BackpropagationAndPerceptron.exe
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\obj\Debug\BackpropagationAndPerceptron.pdb
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\obj\Debug\BackpropagationAndPerceptron.Entrenamiento.resources
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\bin\Debug\BackpropagationAndPerceptron.exe.config
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\bin\Debug\BackpropagationAndPerceptron.exe
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\bin\Debug\BackpropagationAndPerceptron.pdb
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.csprojAssemblyReference.cache
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.Entrenamiento.resources
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.Simulacion.resources
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.VentanaPrincipal.resources
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.Properties.Resources.resources
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.csproj.GenerateResource.cache
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.csproj.CoreCompileInputs.cache
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.exe
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.pdb
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\bin\Debug\Entity.dll
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\bin\Debug\Entity.pdb
+C:\Users\Acer\Desktop\Universidad Popular Del Cesar\Inteligemcia Artificial\Taller 2 - Inteligencia\BackpropagationAndPerceptron\obj\Debug\BackpropagationAndPerceptron.csproj.CopyComplete
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\bin\Debug\Entity.dll
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\bin\Debug\Entity.pdb
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.csproj.CopyComplete
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\bin\Debug\BLL.dll
+C:\Users\Ricky\Documents\proyectos\PerceptronMulticapaAndBackpropagation\bin\Debug\BLL.pdb
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\bin\Debug\BackpropagationAndPerceptron.exe.config
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\bin\Debug\BackpropagationAndPerceptron.exe
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\bin\Debug\BackpropagationAndPerceptron.pdb
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\bin\Debug\BLL.dll
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\bin\Debug\Entity.dll
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\bin\Debug\BLL.pdb
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\bin\Debug\Entity.pdb
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.csprojAssemblyReference.cache
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.Entrenamiento.resources
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.Simulacion.resources
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.VentanaPrincipal.resources
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.Properties.Resources.resources
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.csproj.GenerateResource.cache
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.csproj.CoreCompileInputs.cache
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.csproj.CopyComplete
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.exe
+C:\Users\Ricky\Downloads\PerceptronMulticapaAndBackpropagation\obj\Debug\BackpropagationAndPerceptron.pdb
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\bin\Debug\BackpropagationAndPerceptron.exe.config
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\bin\Debug\BackpropagationAndPerceptron.exe
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\bin\Debug\BackpropagationAndPerceptron.pdb
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\bin\Debug\BLL.dll
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\bin\Debug\Entity.dll
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\bin\Debug\BLL.pdb
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\bin\Debug\Entity.pdb
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\obj\Debug\BackpropagationAndPerceptron.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\obj\Debug\BackpropagationAndPerceptron.Entrenamiento.resources
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\obj\Debug\BackpropagationAndPerceptron.Simulacion.resources
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\obj\Debug\BackpropagationAndPerceptron.VentanaPrincipal.resources
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\obj\Debug\BackpropagationAndPerceptron.Properties.Resources.resources
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\obj\Debug\BackpropagationAndPerceptron.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\obj\Debug\BackpropagationAndPerceptron.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\obj\Debug\BackpropagationAndPerceptron.csproj.CopyComplete
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\obj\Debug\BackpropagationAndPerceptron.exe
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\obj\Debug\BackpropagationAndPerceptron.pdb
+C:\Users\Acer\Desktop\SEGUNDO CORTE INTELIGENCIA\Prueba\obj\Debug\BackpropagationAndPerceptron.SimulacionInterna.resources
